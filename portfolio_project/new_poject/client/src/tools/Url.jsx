@@ -1,2 +1,3 @@
-const Url = "http://localhost:5000/login";
+const Url = "http://localhost:5000";
 export default Url;
+
